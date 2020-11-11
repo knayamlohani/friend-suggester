@@ -33,7 +33,7 @@ curl --location --request POST 'http://localhost:9191/friend-suggestor/api/v1/us
 
 3 - get friends of user with user-name a 
 ```
-curl --location --request GET 'http://localhost:9191/friend-suggestor/api/v1/user/friends/z'
+curl --location --request GET 'http://localhost:9191/friend-suggestor/api/v1/user/friends/a'
 ```
 4 - get pending friend requests of user with user-name a 
 ```
