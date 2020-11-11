@@ -61,3 +61,6 @@ curl --location --request GET 'http://localhost:9191/friend-suggestor/api/v1/use
 ### Aspects
 
 * ExceptionHandler
+
+
+### all the data is kept in memory and is lost on application restart
