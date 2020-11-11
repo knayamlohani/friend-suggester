@@ -1,0 +1,12 @@
+server:
+  port: 9191
+  servlet:
+    contextPath: /friend-suggestor/api/v1
+  http2:
+    enabled: true
+
+
+friends:
+  depth:
+    start: 1
+    end: 2
