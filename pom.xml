@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.trunip</groupId>
-	<artifactId>friendRecommendor</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>friendRecommendor</name>
-	<description>Demo project for Spring Boot</description>
+	<artifactId>friend-suggester</artifactId>
+	<version>1.0.0</version>
+	<name>friend-suggester</name>
+	<description>friend-suggester</description>
 
 	<properties>
 		<java.version>1.8</java.version>
