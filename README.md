@@ -4,8 +4,9 @@
 ```
 1 git clone https://github.com/knayamlohani/friend-suggester.git
 2 cd friend-suggester
-3 mvn clean install
-4 java -jar target/friend-suggester-1.0.0.jar
+3 git checkout master
+4 mvn clean install
+5 java -jar target/friend-suggester-1.0.0.jar
 ```
 
 
